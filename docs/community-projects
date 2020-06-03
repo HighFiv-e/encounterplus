@@ -1,0 +1,38 @@
+# Community Projects
+The focus of this page is to provide access to some of the great resources provided by our community on both Reddit and Discord. These tools are provided as is.
+
+## Dice Page
+Module to provide easy access to dice roles.
+
+## Dndbeyond Character Converter - @rrgeorge
+- MacOS - https://w.bobg.us/ddb.php
+- iPadOS/iOS - Shortcut - Single Character - https://www.icloud.com/shortcuts/fd3c4acdb4ec4e7b98dc128f46e16699
+- iPadOS/iOS - Shortcut - All Characters From Campaign - https://www.icloud.com/shortcuts/17118d9cf00f4bc687a30f53538af875
+
+Make sure the characters are set as Public and not Private.
+
+If you wish to host this yourself, the python script to convert Dndbeyond characters to a compendium xml is located here: https://raw.githubusercontent.com/rrgeorge/support-tools/master/ddbtoxml.py
+
+You run the script by giving it Dndbeyond json files or character urls as arguments (any number of). 
+For example: 
+python3 ddbtoxml.py https://www.dndbeyond.com/profile/user/characters/123
+
+Additionally, if you save a campaign page as an html file, you can convert all characters in a campaign like this:
+python3 ddbtoxml.py --campaign campaign.html
+python3 ddbtoxml.py campaign.html
+
+## DM Screen for Encounter Plus - @MrFarland
+Great tool for quickly accessing information every DM needs https://donfarland.com/technology/game-masters-screen-for-encounter
+
+## Random Encounter Table Template - @JacobJ
+INSERT FILE (EncounterTable.TXT)
+
+## Lions Den GM PC XML Converter - @rrgeorge
+Converts Lions Den GM PC xml files to an Encounter compendium file to import your players.
+
+## Fantasy Grounds XML Converter - @zamrod
+Powershell script to convert monsters from Fantasy Grounds XML to Encounter Plus.
+
+## Asset Packer Shell Script - @Ash
+https://github.com/AshDevFr/dnd_tools/blob/master/encounter%2B/packer.sh
+Call ./packer.sh "your_assets_folder"
