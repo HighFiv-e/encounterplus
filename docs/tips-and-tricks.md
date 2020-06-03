@@ -1,6 +1,15 @@
 # Tips and Tricks
 
-For more information about Campaigns, please see [here](campaigns-and-modules).
+## Beyond20 - Remote Dice Rolling with Dndbeyond + Discord
+For players that utilize Dndbeyond and Discord to run online games, we recommend the Beyond20 plugin.
+https://beyond20.here-for-more.info/
+
+## Airplay Screensharing Recommendations
+The Encounter Plus community has found success with the following two tools:
+### [AirServer](https://www.airserver.com/)
+Regardless of if you're on Mac or PC, this app allows you to airplay to a computer and share that screen.
+### [Zoom](https://zoom.us/)
+This video conferencing tool offers the ability to airplay directly to it, regardless of PC or Mac, and allows for marking up the shared video.
 
 [icon-pencil]: icons/pencil.png 
 [icon-highlighter]: icons/highlighter.png
