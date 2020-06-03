@@ -41,3 +41,6 @@ The archive can use `.pack` file extensins and it must contain `pack.xml` file. 
 Elements:
 * [Asset](elements/asset.md)
 * [Group](elements/group.md)
+
+### [Encounter Plus Module Packer](module-packer)
+Simple desktop application for converting markdown documents into EncounerPlus compatible .module files.
